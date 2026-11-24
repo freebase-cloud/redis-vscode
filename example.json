@@ -1,0 +1,6 @@
+{
+  "name": "redis-vscode",
+  "engine": "redis",
+  "slug": "redis",
+  "kind": "starter"
+}
